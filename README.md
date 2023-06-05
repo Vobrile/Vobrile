@@ -1,4 +1,2 @@
-- Hi, I’m @Vobrile
-- I’m interested in making games
+- Hi, I’m Vobrile
 - I’m currently learning blender and just started looking into code
-- I’m looking to collaborate on interesting and fun projects
