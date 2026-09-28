@@ -1,2 +1,1 @@
 - Hi, I’m Vobrile
-- I’m currently learning blender and just started looking into code
